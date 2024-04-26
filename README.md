@@ -1,1 +1,1 @@
-# FlyingBird_JavaGame
+"Experience avian adventure in this Java project, featuring diverse classes, JPanel utilization, and dynamic graphics. Navigate the skies, interact with the environment, and explore programming creativity. Perfect for learning object-oriented concepts and GUI design. Fly high with 'Flying Bird'!"
